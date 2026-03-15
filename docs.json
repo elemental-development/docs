@@ -12,10 +12,14 @@
     "tabs": [
       {
         "tab": "Üdvőzlet",
-        "languages": [
-          {
-            "language": "hu"
-          }
+        "pages": [
+          "uedvozles"
+        ]
+      },
+      {
+        "tab": "Admin Parancsok",
+        "pages": [
+          "welcome-uedvoezlo-rendszer"
         ]
       }
     ]
