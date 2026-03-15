@@ -9,9 +9,14 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "languages": [
+    "tabs": [
       {
-        "language": "hu"
+        "tab": "Üdvőzlet",
+        "languages": [
+          {
+            "language": "hu"
+          }
+        ]
       }
     ]
   },
